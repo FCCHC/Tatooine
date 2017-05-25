@@ -1,7 +1,7 @@
 **ATOM**
 ========
 
-##CORE SETTINGS##
+**CORE SETTINGS**
 
 1. Allow pending pane Items: Permitir que se puedan previsualizar los items sin que sean agregados al panel.
 2. Audio Beep: Activar el sonido del sistema cuando alguna accion no sea realizada correctamente.
